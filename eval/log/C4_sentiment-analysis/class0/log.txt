@@ -1,0 +1,15 @@
+2023-08-18 00:08:09,337 - root - INFO - 
+---Program Start---
+2023-08-18 00:08:09,337 - root - INFO - Log file is ../log/C4_sentiment-analysis/class0/log.txt.
+2023-08-18 00:08:09,337 - root - INFO - Data path is ../data/C4_sentiment-analysis/.
+2023-08-18 00:08:09,337 - root - INFO - Export path is ../log/C4_sentiment-analysis/class0.
+2023-08-18 00:08:09,345 - root - INFO - GPU is available.
+2023-08-18 00:08:09,345 - root - INFO - Dataset: C4_sentiment-analysis
+2023-08-18 00:08:09,345 - root - INFO - Normal class: 0
+2023-08-18 00:08:09,345 - root - INFO - Network: text_LSTM
+2023-08-18 00:08:09,345 - root - INFO - Deep SVDD objective: one-class
+2023-08-18 00:08:09,345 - root - INFO - Nu-paramerter: 0.10
+2023-08-18 00:08:09,345 - root - INFO - Computation device: cuda
+2023-08-18 00:08:09,345 - root - INFO - Number of dataloader workers: 0
+2023-08-18 00:08:11,307 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2023-08-18 00:08:11,528 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cuda
